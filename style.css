@@ -1,0 +1,20 @@
+h1{
+    color:red;
+}
+p{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+button{
+    color:brown;
+    background-color: rgb(18, 229, 127);
+    box-shadow: 3px;
+}
+body{
+    background-color: rgb(56, 56, 77);
+}
+video{
+    width: 360px;
+    height: 240px;
+}
